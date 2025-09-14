@@ -16,15 +16,3 @@ git restore testing.py
 git status
 cls
 
-git status
-git add git_commands.txt
-git status
-git commit -m "Committed"
-git status
-cls
-git remote add origin https://github.com/YashviTopiwala/GITHUB-FOR-DEVOPS-WORKSHOP.git
-git remmote -v
-git remote -v
-git remote set-url origin https://github.com/YashviTopiwala/GITHUB-FOR-DEVOPS-WORKSHOP.git    
-git remote -v
-git push origin master
