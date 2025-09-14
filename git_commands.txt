@@ -25,6 +25,6 @@ cls
 git remote add origin https://github.com/YashviTopiwala/GITHUB-FOR-DEVOPS-WORKSHOP.git
 git remmote -v
 git remote -v
-git remote set-url origin https://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@github.com/YashviTopiwala/GITHUB-FOR-DEVOPS-WORKSHOP.git    
+git remote set-url origin https://github.com/YashviTopiwala/GITHUB-FOR-DEVOPS-WORKSHOP.git    
 git remote -v
 git push origin master
